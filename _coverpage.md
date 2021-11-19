@@ -1,11 +1,10 @@
 
-# 实验高中表白墙
+# 瓦房店高中表白墙
 
-> 请联系QQ95011315上墙
+> 由实验高中郎俊杰支持
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 请联系QQ95011315以添加内容
+- sygz.ljjie.cn
 
-[关于我](http://langjunjie.cn/)
+[我的主页](http://langjunjie.cn/)
 [Getting Started](#docsify)
