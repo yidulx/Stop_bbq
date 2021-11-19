@@ -8,4 +8,4 @@
 - 使用左下角按钮以打开导航栏
 
 [表白墙](http://bbq.ljjie.cn)
-[提交内容](http://http://bbq.ljjie.cn/#/?id=%E6%85%95%E5%BF%B5%E6%B2%B3)
+[提交内容](http://bbq.ljjie.cn/#/?id=%E6%85%95%E5%BF%B5%E6%B2%B3)
