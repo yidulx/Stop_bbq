@@ -7,7 +7,7 @@
 > 请在上传后查看ID（累积计数）<br>
 > 以便后续查找
 
-> 使用左下角按钮打开导航<br>
+> 使用左下角按钮打开导航，以查看表白墙<br>
 > 下方提交内容
 
 <iframe height="1200" width="800" src="https://wj.qq.com/s2/9334154/a401" frameborder="0" allowfullscreen></iframe>
