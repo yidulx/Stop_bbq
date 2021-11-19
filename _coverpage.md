@@ -7,4 +7,4 @@
 - sygz.ljjie.cn
 
 [我的主页](http://langjunjie.cn/)
-[Getting Started](#docsify)
+[Getting Started](#表白墙)
