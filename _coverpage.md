@@ -1,10 +1,10 @@
 
-# 瓦房店高中表白墙
+# 瓦房店 高中表白墙
 
-> 由实验高中郎俊杰支持
+> 由实验高中郎俊杰制作
 
+- 星光不问赶路人，时光不负有心人。
 - 请联系QQ95011315以添加内容
-- sygz.ljjie.cn
 
-[我的主页](http://langjunjie.cn/)
-[Getting Started](#表白墙)
+[表白墙](http://bbq.ljjie.cn)
+[查看内容](#introduction)
