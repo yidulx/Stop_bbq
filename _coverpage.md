@@ -1,4 +1,3 @@
-![logo](http://q1.qlogo.cn/g?b=qq&nk=95011315&s=640)
 
 # 实验高中表白墙
 
