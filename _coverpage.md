@@ -10,4 +10,4 @@
 [表白墙](http://bbq.ljjie.cn)
 [提交内容-请滑动页面]()
 
-![color](#F5FFFA)
+![color](#20B2AA)
